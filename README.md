@@ -2,7 +2,7 @@
 
 # Overview
 
-This project builds machine learning models to predict whether a client will subscribe to a term deposit using bank marketing data. The goal is to improve targeting and support better decision-making in marketing campaigns.
+This project builds machine learning models to predict whether a client will subscribe to a term deposit using bank marketing data. The goal is to improve targeting and support better decision making in marketing campaigns.
 
 # Dataset
 
@@ -43,4 +43,4 @@ Evaluation should focus more on precision, recall, and F1 score rather than accu
 
 # Tools Used
 
-Python, pandas, scikit-learn, matplotlib, seaborn
+Python, pandas, scikit learn, matplotlib, seaborn
